@@ -32,5 +32,4 @@ This project was completed as part of a group assignment.
 
 
 
-## License
-MIT
+
